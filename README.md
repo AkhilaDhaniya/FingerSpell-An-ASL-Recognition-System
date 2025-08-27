@@ -37,7 +37,7 @@ The following files are stored.
 * 
 ## Application Preview
 ### Homepage
-<img src="HomePage.png" alt="Home" width="400"/>
+<img src="Screenshots/HomePage.png" alt="Home" width="400"/>
 
 ### About
 ![About](Screenshots/About.png)
