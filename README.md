@@ -2,7 +2,22 @@
 
 ## Directory
 
-![directory](Screenshots/directoryStructure.png)
+<pre>
+│  app.py
+│  keypoint_classification.ipynb
+│  diploy.py
+│  
+├─model
+│  ├─keypoint_classifier
+│  │  keypoint.csv
+│  │  keypoint_classifier.hdf5
+│  │  keypoint_classifier.py
+│  │  keypoint_classifier.tflite
+│  └─ keypoint_classifier_label.csv
+│          
+└─utils
+    └─cvfpscalc.py
+</pre>
 
 ## Application Preview
 ### Homepage
