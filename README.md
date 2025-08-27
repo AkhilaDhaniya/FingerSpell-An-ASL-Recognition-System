@@ -14,4 +14,4 @@
 ### Capture Gestures
 ![capture1](Screenshots/Capture1.png)
 
-![capture2](Screenshots/Capture2.png)
+![capture2](Screenshots/Captue2.png)
