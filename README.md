@@ -1,64 +1,41 @@
 # FingerSpell-An-ASL-Recognition-System
 
 # Directory
+<<<<<<< HEAD
 
-│  app.py
-
-│  keypoint\_classification.ipynb
-
-│  point\_history\_classification.ipynb
-
-│  
-
-├─model
-
-│  ├─keypoint\_classifier
-
-│  │  │  keypoint.csv
-
-│  │  │  keypoint\_classifier.hdf5
-
-│  │  │  keypoint\_classifier.py
-
-│  │  │  keypoint\_classifier.tflite
-
-│  │  └─ keypoint\_classifier\_label.csv
-
-│  │          
-
-│  └─point\_history\_classifier
-
-│      │  point\_history.csv
-
-│      │  point\_history\_classifier.hdf5
-
-│      │  point\_history\_classifier.py
-
-│      │  point\_history\_classifier.tflite
-
-│      └─ point\_history\_classifier\_label.csv
-
-│          
-
-└─utils
-
-&nbsp;   └─cvfpscalc.py
+=======
+![directory]()
+>>>>>>> 8ea1b4e8a0de849e3adb82ff87f880a7e8f4fda7
 
 ## app.py
 
 Collect training data (hand coordinate history) for gesture recognition.
 
+<<<<<<< HEAD
 ## keypoint\_classification.ipynb
 
 This is a model training script for hand sign recognition.
 
 ## model/keypoint\_classifier
+=======
+## keypoint_classification.ipynb
+
+This is a model training script for hand sign recognition.
+
+## model/keypoint_classifier
+>>>>>>> 8ea1b4e8a0de849e3adb82ff87f880a7e8f4fda7
 
 This directory stores files related to hand sign recognition.
 The following files are stored.
 
 1.Training data(keypoint.csv)
+<<<<<<< HEAD
 2.Trained model(keypoint\_classifier.tflite)
 3.Label data(keypoint\_classifier\_label.csv)
 4.Inference module(keypoint\_classifier.py)
 
+=======
+2.Trained model(keypoint_classifier.tflite)
+3.Label data(keypoint_classifier_label.csv)
+4.Inference module(keypoint_classifier.py)
+>>>>>>> 8ea1b4e8a0de849e3adb82ff87f880a7e8f4fda7
