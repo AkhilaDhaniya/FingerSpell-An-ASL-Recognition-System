@@ -5,7 +5,7 @@
 <pre>
 │  app.py
 │  keypoint_classification.ipynb
-│  diploy.py
+│  deploy.py
 │  
 ├─model
 │  ├─keypoint_classifier
@@ -37,7 +37,7 @@ The following files are stored.
 * 
 ## Application Preview
 ### Homepage
-![home](Screenshots/HomePage.png)
+<img src="HomePage.png" alt="Home" width="400"/>
 
 ### About
 ![About](Screenshots/About.png)
