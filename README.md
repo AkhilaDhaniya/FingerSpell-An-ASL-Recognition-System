@@ -2,14 +2,13 @@
 
 # Directory
 
-![directory](Screenshots/directorystructure.png)
+![directory](Screenshots/directoryStructure.png)
 
 
 ## app.py
 
 Collect training data (hand coordinate history) for gesture recognition.
 
-<<<<<<< HEAD
 ## keypoint\_classification.ipynb
 
 This is a model training script for hand sign recognition.
