@@ -1,5 +1,5 @@
 # FingerSpell-An-ASL-Recognition-System
-
+A sample program that recognizes ASL signs and gestures with a simple MLP. Use MediaPipe-hands to detect hand gesture.
 ## Directory
 
 <pre>
