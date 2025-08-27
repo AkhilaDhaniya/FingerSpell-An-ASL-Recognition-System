@@ -34,7 +34,7 @@ The following files are stored.
 * Trained model(keypoint_classifier.tflite)
 * Label data(keypoint_classifier_label.csv)
 * Inference module(keypoint_classifier.py)
-* 
+
 ## Application Preview
 ### Homepage
 <img src="Screenshots/HomePage.png" alt="Home" width="1500"/>
@@ -47,4 +47,9 @@ The following files are stored.
 
 ![capture2](Screenshots/Captue2.png)
 
-
+## Requirements
+* mediapipe 0.8.1
+* OpenCV 3.4.2 or Later
+* Tensorflow 2.3.0 or Later<br>tf-nightly 2.5.0.dev or later (Only when creating a TFLite for an LSTM model)
+* scikit-learn 0.23.2 or Later (Only if you want to display the confusion matrix) 
+* matplotlib 3.3.2 or Later (Only if you want to display the confusion matrix)
