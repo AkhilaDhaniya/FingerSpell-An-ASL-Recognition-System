@@ -1,11 +1,9 @@
 # FingerSpell-An-ASL-Recognition-System
 
 # Directory
-<<<<<<< HEAD
 
-=======
-![directory]()
->>>>>>> 8ea1b4e8a0de849e3adb82ff87f880a7e8f4fda7
+![directory](Screenshots/directorystructure.png)
+
 
 ## app.py
 
